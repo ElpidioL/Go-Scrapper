@@ -93,3 +93,5 @@ func main() {
 	}
 	fmt.Println(mmo3[0])
 }
+
+//i need to review this code.
