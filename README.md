@@ -1,4 +1,4 @@
-#GoScrapper
+# GoScrapper
 
 Just a small project I made for fun.
 It scrapes a few MMORPG websites using Colly
