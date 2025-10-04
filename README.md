@@ -1,7 +1,12 @@
-# GoScrapper
+#GoScrapper
 
-This project will probably keep pretty simple, but I may do more websites and more complex structs in the future.
+Just a small project I made for fun.
+It scrapes a few MMORPG websites using Colly
+ — nothing too serious.
 
-I started this because I already had this code in python, but it was really really slow, and the library that I was using would open the browser on my computer to be able to scrap, which is atrocious from my point of view and take a lot of time.
+I started this because I had a similar script in Python, but it was painfully slow.
+The library I was using even opened an actual browser on my computer just to scrape data (yeah, no thanks).
 
-For now it only access some MMORPG sites and retrieve info, keep in mind that I'll probably add it to my bot later.
+So I rewrote it in Go to make it faster and cleaner.
+
+Right now it just grabs some basic info from a few MMORPG-related sites:
